@@ -1,6 +1,6 @@
 # RCA-Practice-Item-Picker
 
-A couple scripts to create practice data to study for the RCA exam
+A simple script to create practice data to study for the RCA exam
 
 To run:
 ```
