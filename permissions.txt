@@ -1,0 +1,102 @@
+# Workspace Level
+Import and code, redact, and highlight documents 
+Create and edit layouts
+Modify pivot widgets and pivot profiles
+Create, edit, and secure dashboards
+Run email threading and access email thread visualization
+Mass-code documents
+Create, edit, and delete saved searches
+Create, edit, and assign batches
+Edit existing views in the workspace
+Modify the existing Default Processing Profile and create and run Processing sets
+Upload documents to the workspace using Simple File Upload only
+Export (but not import) documents 
+Import and annotate transcripts and exhibits
+Save lists
+Create object rules
+Run a Sum/Tally/Average report and export it to the desktop
+View workspace details
+View other user's personal items
+View documents
+Code documents
+Mass edit/code documents
+Delete documents + family
+Simple file upload
+Annotate transcripts
+Create transcript reports
+View layout
+Add layout
+Edit/build layout
+Delete layout
+View, Edit, Delete, Add, and secure folders
+View, edit, delete, add, and secure fields
+View, edit, delete, and add choices
+Manage field choices with Manage link
+Image documents from the viewer
+Mass image documents
+Delete image
+Mass delete image
+View, edit, delete, add, and secure imaging set
+Image documents via Imaging set
+Highlight and redact docs
+Edit search
+Create saved search
+Delete search
+Build existing search index
+Add search index
+Run existing search terms report
+Create search terms report
+Modify search terms (in STR)
+Delete Search terms report
+View documents from search term report
+View, add, edit pivot widgets
+Add, edit, delete pivot profiles
+Add, edit, delete dashboards
+Add batch set
+Create batches in batch set
+Delete batch set
+Purge batches in batch set
+Assign batch to self
+Assign batches to others
+View, add, edit, delete, secure views
+View, add, edit, delete, secure analytics profile
+Run existing structured analytics set
+Create structured analytics set
+View email thread visualization
+View, add, edit, delete, secure processing profile
+Create and run processing set
+Create, edit, delete, secure production placeholders
+Create, stage, and run production set
+Override production restrictions or remove conflicts
+Import documents via RDC or Integration Points
+Export documents via RDC or Integration Points
+Run a sum/tally/average report and export it to the desktop
+
+# Instance Level
+Create and edit users
+Add users to existing groups
+Manage all queues
+Configure user authentication methods
+Import applications to the Relativity Application Library
+Monitor all users that are currently logged in
+Edit the Message of the Day
+Manage object types
+View admin tabs
+Manage clients
+View matters
+Add matters
+Edit matters
+Delete matters
+View users
+Add users
+Edit users
+Delete users
+View user status or track users
+Send message to user(s)
+Force logout
+Queue management
+View Workspace
+Edit workspace
+Delete workspace
+Add workspace
+Workspace Level Permissions

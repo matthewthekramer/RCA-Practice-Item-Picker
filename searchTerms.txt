@@ -1,0 +1,73 @@
+# Noise Words
+The exact phrase "came and adjusted"
+The exact phrase "hit or miss"
+The exact phrase "apples or oranges"
+The exact phrase "kiwis and strawberries"
+The exact phrase "run and jump"
+The exact phrase "The way is indeed"
+The exact phrase "Never have I ever"
+
+# Boolean Operators
+Documents that contain the term deadline, but do not contain the term offer
+A document that contains the word holding or the word Andrew
+Documents that contain the term 'offer', or do not contain the term 'gas'
+
+# Wildcards
+Any word that ends with 'ing'
+Any word that starts with 'm' and ends with 'ed'
+Any word that is 8 letters long and and starts with accept
+Any word that starts with 'announce'
+Any word that starts with 'round'
+Any word that starts with 'ap' and ends with 'ed'
+Any word that contains 'cipl'
+
+# Distance Operators
+"oil" within ten words of the word "gas"
+"energy" within five words before the word "power"
+"Dear" is within the first 30 words of the document
+"Thanks" is within the last 25 words of the document
+
+# Fuzzy Operators
+Begins with 'd' and can differ from 'deal' by one character
+Begins with 'rec' and can differ from 'received by 2 characters
+Begins with 'to' and can differ from 'teethbrush' by 2 characters
+Begins with 'Un' and can differ from United by 3 characters
+
+# Stemming
+grammatical variations of the word share
+grammatical variations of the word apply
+grammatical variations of the word receive
+grammatical variations of the word send
+
+# Stemming and fuzzy
+Begin with 'd' and can differ from 'deal' by one character and all grammatical variations
+Begin with 'rec' and can differ from 'received by 2 characters and all grammatical variations
+Begins with 'to' and can differ from 'teethbrush' by 2 characters and all grammatical variations
+Begins with Un and can differ from United by 3 characters and all grammatical variations
+
+# Special Characters
+Mix & Mingle
+$78
+Q&A
+100%
+
+# Phonic searching
+All words that sound like 'pair'
+All words that sound like 'wood'
+
+# Functions
+Any variation of the date October 22, 2001
+Any variation of the date October 26, 2001
+Any email staring with 'Andy' at enron.com
+Any email staring with 'Mark' at enron.com
+Any credit card with the number 1234567812345678
+
+# Number match
+Any 8 digit number with a space between the 4th and 5th digits.
+
+# Unique
+Documents that contain the term transactions, but contain no other search terms
+
+# Case sensitive
+The case-sensitive phrase "ICE"
+The case-sensitive phrase IPE Holdings
