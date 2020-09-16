@@ -3,8 +3,10 @@
 A couple scripts to create practice data to study for the RCA exam
 
 To run:
-```python3 rca_handson_item_picker.py```
-Should produce output similar to:
+```
+python3 rca_handson_item_picker.py
+```
+This should produce output similar to:
 ```
 
 ======== Search Terms ========
